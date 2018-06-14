@@ -20,3 +20,6 @@ You may also want to commit your changes to the file. When you're ready to move 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You may also want to commit your changes to the file. When you're ready to move on, click "Next" and Sarah will explain why this automatic merge process won't always be possible and what happens instead.
+
+
+here
